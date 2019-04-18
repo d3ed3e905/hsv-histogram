@@ -1,0 +1,5 @@
+Am extras matricele [matR], [matG], [matB] din matricea tridimensionala returnata
+de functia imread, apoi am convertit la [double] elementele din matrice.
+
+Daca nu faceam conversia, in urma impartirii la 255 s-ar fi obtinut
+o matrice de 0 si 1 (se rontunjea spre cel maipropiat intreg).
